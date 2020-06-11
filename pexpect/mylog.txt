@@ -1,0 +1,21 @@
+Welcome to Ubuntu 16.04.5 LTS (GNU/Linux 4.4.0-135-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+109 packages can be updated.
+50 updates are security updates.
+
+New release '18.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+	
+	Welcome to Huawei Cloud Service
+
+Last login: Wed Dec 19 10:10:38 2018 from 123.207.49.89
+root@ecs-5623:~# tar -czf /var/log/nginx/access.tar.gz /var/log/nginx/access.log
+tar -czf /var/log/nginx/access.tar.gz /var/log/nginx/access.log [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kg
+tar: Removing leading `/' from member names
+root@ecs-5623:~# 
