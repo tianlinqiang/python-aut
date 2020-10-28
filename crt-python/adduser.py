@@ -4,7 +4,7 @@
 def main():
     A=['10.17.8.126']
     for ipadr in A:
-        crt.Screen.Send("ssh linqiang.tian@"+ipadr+"\n")
+        crt.Screen.Send("ssh root@"+ipadr+"\n")
         crt.Screen.WaitForStrings("Are you sure you want to continue connecting (yes/no)?",3000)
         crt.Screen.Send("yes\n")
         crt.Screen.WaitForString("~]$")
